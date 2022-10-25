@@ -15,8 +15,8 @@ JavaScript | TypeScript | React | Redux | Node JS | Express | MySQL | Mongoose |
   
   E-Commerce de videojuegos "Games Store" ---> https://henry-project.vercel.app/
 
-🤜🤛 Contactame: 
+Contactame: 
 
- 📧 bermudez.luciana9@gmail.com
+   📧 bermudez.luciana9@gmail.com
  
- 🌐 https://github.com/lubermudezz
+   🌐 https://github.com/lubermudezz
