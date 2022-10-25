@@ -1,5 +1,5 @@
+![portada github](https://user-images.githubusercontent.com/96797815/197687212-b4b20fa5-3472-4ae3-9a15-de436c422d29.png)
 
-![portada github](https://user-images.githubusercontent.com/96797815/197685621-d8403e76-6faa-48ea-98de-58e0a674f0b2.png)
 
 👋🏻 Soy desarolladora full stack, graduada del bootcamp intensivo de Soy Henry. 💻 
 Con más de 800 hs de código. 
