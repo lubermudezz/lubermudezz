@@ -11,7 +11,7 @@ JavaScript | TypeScript | React | Redux | Node JS | Express | MySQL | Mongoose |
 
 🚀Mis proyectos más recientes:
   
-  E-Commerce de comidas "Henry's Resto Project" ---> http://restohenry.vercel.app/
+  E-Commerce de comidas "Henry's Resto Project" ---> https://henrys-resto-lubermudezz.vercel.app/
   
   E-Commerce de videojuegos "Games Store" ---> https://henry-project.vercel.app/
 
