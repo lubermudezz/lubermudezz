@@ -1,13 +1,14 @@
 ![portada github](https://user-images.githubusercontent.com/96797815/197687212-b4b20fa5-3472-4ae3-9a15-de436c422d29.png)
 
 
-👋🏻 Soy desarolladora full stack, graduada del bootcamp intensivo de Soy Henry. 💻 
-Con más de 800 hs de código. 
 
-🤝Mi objetivo es seguir progresando en el mundo de la programación aprendiendo e incorporando nuevas tecnologías y mejorando en las que ya conozco. Me gusta trabajar en equipo, resolver problemas y encarar nuevos proyectos.
+👋🏻 Soy desarrolladora full stack con experiencia profesional, especializada en frontend con React, backend con Node.js, y servicios en la nube, particularmente AWS. Graduada del bootcamp intensivo de Soy Henry, donde completé más de 800 horas de código en proyectos complejos que abarcan todo el stack tecnológico. Actualmente, curso la tecnicatura en desarrollo de software para seguir ampliando y profundizando mis conocimientos en el área.
 
-🚀Mis habilidades:
-JavaScript | TypeScript | React | Redux | Node JS | Express | MySQL | Mongoose | MongoDb | PostgreSQL | Sequelize | Git | Figma | Slack | HTML | CSS
+💻 Me motiva continuar desarrollando mis habilidades y aprender nuevas tecnologías, así como optimizar y profundizar mi experiencia en las herramientas que ya manejo. Disfruto del trabajo en equipo, la resolución de problemas, y la creación de proyectos innovadores.
+
+🚀 Habilidades Técnicas: React | JavaScript | TypeScript |  Node.js | AWS | Python | Redux | Express | MongoDB | PostgreSQL | HTML | CSS | Kibana
+
+🚀 Mis herramientas del día a día: Git | Figma | Slack | Notion | Zenhub
 
 🚀Mis proyectos más recientes:
   
